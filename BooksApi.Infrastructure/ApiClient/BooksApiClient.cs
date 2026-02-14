@@ -1,6 +1,7 @@
 ﻿using BooksApi.Dto;
 using BooksApi.Entities;
 using BooksApi.Interface;
+using System.Net.Http.Json;
 
 namespace BooksApi.ApiClient
 {

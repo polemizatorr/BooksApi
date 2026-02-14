@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../BooksApi.Application/BooksApi.Application.csproj" Id="a550bf31-5ad8-4227-9dbe-1f69fe409664" />
+  <Project Path="../BooksApi.Domain/BooksApi.Domain.csproj" Id="d765e3da-1375-43cb-92e8-41f53bdb6e38" />
+  <Project Path="../BooksApi.Infrastructure/BooksApi.Infrastructure.csproj" Id="f2dc324d-1254-4439-849d-fbf8b2fcf461" />
   <Project Path="BooksApi.API.csproj" />
 </Solution>
