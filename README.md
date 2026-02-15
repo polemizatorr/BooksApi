@@ -6,7 +6,7 @@ To run the app:
 
 ### Run following command in repository root:
 
-### dotnet run --project "BooksApi.Api/BooksApi.Api.csproj" --launch-profile "https"
+### dotnet run --project "BooksApi/BooksApi.Api.csproj" --launch-profile "https"
 
 
 You can also lunch app in Visual Studio (Steps below):
